@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1010 AtoN Planning & Service Requirements.pdf</loc>
+<loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1010 AtoN Planning &amp; Service Requirements.pdf</loc>
 <lastmod>2023-03-04T16:29:11+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1010 Ed2.0 Marine AtoN Planning and Service Requirements.pdf</loc>
+<lastmod>2024-10-24T08:16:35+02:00</lastmod>
 </url>
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1020 AtoN Design and Delivery.pdf</loc>
 <lastmod>2023-03-04T16:29:11+01:00</lastmod>
 </url>
 <url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1020 Ed2.0 AtoN Design and Delivery.pdf</loc>
+<lastmod>2024-10-24T08:16:35+02:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1030 Ed2.0 Radionavigation Services.pdf</loc>
+<lastmod>2024-10-24T08:16:35+02:00</lastmod>
+</url>
+<url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1030 Radionavigation Services.pdf</loc>
 <lastmod>2023-03-04T16:29:11+01:00</lastmod>
 </url>
 <url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1040 Ed2.0 Vessel Traffic Service.pdf</loc>
+<lastmod>2024-10-24T08:16:35+02:00</lastmod>
+</url>
+<url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1040 Vessel Traffic Services.pdf</loc>
 <lastmod>2023-03-04T16:29:11+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1050 Ed2.0 Training and Certification.pdf</loc>
+<lastmod>2024-10-24T08:16:35+02:00</lastmod>
 </url>
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1050 Training and Certification.pdf</loc>
@@ -23,6 +43,14 @@
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1060 Digital Communication Technologies.pdf</loc>
 <lastmod>2023-03-04T16:29:11+01:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1060 Ed2.0 Digital Communication Technologies.pdf</loc>
+<lastmod>2024-10-24T08:16:35+02:00</lastmod>
+</url>
+<url>
+<loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1070 Ed2.0 Information Services.pdf</loc>
+<lastmod>2024-10-24T08:16:35+02:00</lastmod>
 </url>
 <url>
 <loc>https://raw.githubusercontent.com/IALAPublications/Standards/main/S1070 Information Services.pdf</loc>
